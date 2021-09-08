@@ -18,7 +18,7 @@ There are currently **three main tools:**
 
 This is a Jupyter Notebook written in Python and hosted on Google Colab.
 
-👉 [Use DoveTools on Google Colab](https://bit.ly/dovetools10) (you are here)
+👉 [Use DoveTools on Google Colab](https://bit.ly/dovetools10)
 
 1. Each cell includes a piece of code
 2. You can run a cell by clicking the Play button, or typing Shift+Enter
